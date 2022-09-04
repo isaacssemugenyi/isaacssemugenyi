@@ -9,4 +9,4 @@
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/isaac-ssemugenyi-08a50346)
 - 📫 Born *August/1992*
 
-<--https://docs.github.com/en/rest/overview/endpoints-available-for-github-apps-->
+[//]: #https://docs.github.com/en/rest/overview/endpoints-available-for-github-apps
