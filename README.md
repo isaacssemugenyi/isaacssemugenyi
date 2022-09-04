@@ -9,5 +9,6 @@
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/isaac-ssemugenyi-08a50346)
 - 📫 Born *August/1992*
 
+(https://img.shields.io/static/v1?label=React&message=Reactjs&color=BLUE)
 [//]: #https://docs.github.com/en/rest/overview/endpoints-available-for-github-apps
-(https://img.shields.io/static/v1?label=<React>&message=<Reactjs>&color=<BLUE>)
+
