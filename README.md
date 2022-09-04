@@ -10,3 +10,4 @@
 - 📫 Born *August/1992*
 
 [//]: #https://docs.github.com/en/rest/overview/endpoints-available-for-github-apps
+(https://img.shields.io/static/v1?label=<React>&message=<Reactjs>&color=<BLUE>)
