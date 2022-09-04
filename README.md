@@ -7,4 +7,4 @@
 - 🤔 I’m looking for a mentor in rust and project management
 - 💬 Ask me about javascript, reactjs and vuejs
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/isaac-ssemugenyi-08a50346)
-- 📫 Born August/1992
+- 📫 Born *August/1992*
