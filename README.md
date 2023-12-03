@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Isaac Ssemugenyi
 
 - 🔭 I’m currently working on rest api with Nodejs (expressjs), java (springboot) and frontend with reactjs and vuejs
-- 🌱 I’m currently learning rust and nextjs
+- 🌱 I’m currently learning rust
 - 🌱 I’m currently coaching and mentoring teams at [refactory](https://www.refactory.ug) and working mainly on the frontend at [flyhub](https://www.flyhub.co.ug)
 - 👯 I’m looking to collaborate on open source projects that use rust
 - 🤔 I’m looking for a mentor in rust and project management
